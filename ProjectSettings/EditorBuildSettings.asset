@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: 
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
     path: Assets/Scenes/hapishane.unity
     guid: fb5a8e9030a33d74fb1a9b836157e57a
+  - enabled: 1
+    path: Assets/Scenes/labirent.unity
+    guid: 9cf6e59eb848b954a8abd149c47c5bf1
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2c25199cb8c4dac499451b14910942a3
   m_configObjects: {}
