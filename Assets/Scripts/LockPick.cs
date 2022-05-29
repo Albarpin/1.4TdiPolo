@@ -70,7 +70,7 @@ public class LockPick : MonoBehaviour
         {
             if (eulerAngle < unlockRange.y && eulerAngle > unlockRange.x)
             {
-                Debug.Log("Unlocked!");
+                Debug.Log("Kilidi Açtın!");
                 newLock();
 
                 movePick = true;
